@@ -4,6 +4,7 @@
     <b>Website that allows to recover a discord token by generating a qr code that the victim will have to scan</b><br>
     <br>
   <img src='https://cdn.discordapp.com/attachments/838974791716962304/997639677286830110/Screenshot_2022-07-15_235827.png'>
+  <img src='https://cdn.discordapp.com/attachments/838974791716962304/997640732062011392/Screenshot_2022-07-16_000826.png'>
 </p>
 
 ----
